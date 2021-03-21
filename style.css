@@ -74,7 +74,7 @@ header {
 }
 
 .navigation a:hover {
-	color: #d95f67	;
+	color: #d95f67;
 }
 
 .zone__for__ordering {
@@ -416,6 +416,10 @@ footer {
 	justify-content: space-between;
 }
 
+.first__row__link a:hover {
+	color: #d95f67	;
+}
+
 .second__row__link {
 	border-bottom: 1px solid #fff;
 	font-weight: 600;
@@ -443,6 +447,10 @@ footer {
 	display: table-cell;
 	vertical-align: middle;
 	height: 65px;
+}
+
+.second__row__link div.second__row__link__text a:hover {
+	color: #d95f67	;
 }
 
 .social__network {
